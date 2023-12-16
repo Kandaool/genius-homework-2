@@ -1,1 +1,2 @@
-# genius-homework-2
+# project_beauty
+ 
